@@ -1,0 +1,11 @@
+C:\Users\hopharl\source\repos\Quiz Quest\Quiz Quest\bin\Debug\Quiz Quest.exe.config
+C:\Users\hopharl\source\repos\Quiz Quest\Quiz Quest\bin\Debug\Quiz Quest.exe
+C:\Users\hopharl\source\repos\Quiz Quest\Quiz Quest\bin\Debug\Quiz Quest.pdb
+C:\Users\hopharl\source\repos\Quiz Quest\Quiz Quest\obj\Debug\Quiz Quest.csproj.AssemblyReference.cache
+C:\Users\hopharl\source\repos\Quiz Quest\Quiz Quest\obj\Debug\Quiz_Quest.Form1.resources
+C:\Users\hopharl\source\repos\Quiz Quest\Quiz Quest\obj\Debug\Quiz_Quest.Properties.Resources.resources
+C:\Users\hopharl\source\repos\Quiz Quest\Quiz Quest\obj\Debug\Quiz Quest.csproj.GenerateResource.cache
+C:\Users\hopharl\source\repos\Quiz Quest\Quiz Quest\obj\Debug\Quiz Quest.csproj.CoreCompileInputs.cache
+C:\Users\hopharl\source\repos\Quiz Quest\Quiz Quest\obj\Debug\Quiz Quest.exe
+C:\Users\hopharl\source\repos\Quiz Quest\Quiz Quest\obj\Debug\Quiz Quest.pdb
+C:\Users\hopharl\source\repos\Quiz Quest\Quiz Quest\obj\Debug\Quiz_Quest.Form2.resources
